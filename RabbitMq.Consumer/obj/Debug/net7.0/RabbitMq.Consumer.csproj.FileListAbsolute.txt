@@ -1,0 +1,17 @@
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/bin/Debug/net7.0/RabbitMq.Consumer
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/bin/Debug/net7.0/RabbitMq.Consumer.deps.json
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/bin/Debug/net7.0/RabbitMq.Consumer.runtimeconfig.json
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/bin/Debug/net7.0/RabbitMq.Consumer.dll
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/bin/Debug/net7.0/RabbitMq.Consumer.pdb
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.csproj.AssemblyReference.cache
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.AssemblyInfo.cs
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.csproj.CopyComplete
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.dll
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/refint/RabbitMq.Consumer.dll
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.pdb
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/RabbitMq.Consumer.genruntimeconfig.cache
+/Users/ahmetguvendik/Projects/RabbitMq.Consumer/RabbitMq.Consumer/obj/Debug/net7.0/ref/RabbitMq.Consumer.dll
