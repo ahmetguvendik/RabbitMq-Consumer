@@ -5,7 +5,7 @@ using RabbitMQ.Client.Events;
 
 //Baglanti olusturma
 ConnectionFactory factory = new ConnectionFactory();
-factory.Uri = new Uri("amqps://wqbvawvt:aTi_gA9eIEH4Ot3LV4PDfWHGFZieaNK-@shark.rmq.cloudamqp.com/wqbvawvt");
+factory.Uri = new Uri("//");
 
 //Baglanti Aktiflestirme
 
